@@ -1,0 +1,7 @@
+c:\users\paulo soreto\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\paulo soreto\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\paulo soreto\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\paulo soreto\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\paulo soreto\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\paulo soreto\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\Paulo Soreto\Documents\Visual Studio 2015\Projects\Server\Server\bin\Debug\conf.ini
